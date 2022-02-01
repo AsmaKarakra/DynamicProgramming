@@ -25,7 +25,7 @@ public class Playground {
 
         //if Map contains input, return value
         if (fibMap.containsKey(fibNum)){
-                fibMap.get(fibMemo(fibNum-1) + fibMemo(fibNum-2));
+            return fibMap.get(fibNum);
         }
 
         //else: check if input is base case
