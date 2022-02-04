@@ -1,6 +1,5 @@
 # DynamicProgramming
-
-     ## Memorization Recipe:
+## Memorization Recipe:
     
      * 1. Come up with a recursive solution
      *      - Visualize the problem as a tree
